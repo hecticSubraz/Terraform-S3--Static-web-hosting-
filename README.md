@@ -1,5 +1,5 @@
 
-# Terraform S3 Static Website Hosting
+# Terraform-S3 (Static Website Hosting)
 
 This project demonstrates how to use **Terraform** to provision a **static website** hosted on **Amazon S3**.
 
