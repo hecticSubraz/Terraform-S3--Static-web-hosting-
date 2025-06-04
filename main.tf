@@ -57,3 +57,4 @@ resource "aws_s3_object" "error" {
   content_type = "text/html"
     etag         = filemd5("error.html")
 }
+
